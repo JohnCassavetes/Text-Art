@@ -1,7 +1,5 @@
 # ASCII Text Art
 
-### ASCII Text Art
-
 Text art
 
 
