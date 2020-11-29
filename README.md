@@ -1,6 +1,6 @@
-# ASCII Text Art
+# Text Art
 
-Text art
+This is called a ASCII Text Art: Art from text
 
 
 
