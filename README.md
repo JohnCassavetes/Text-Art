@@ -1,6 +1,7 @@
 # Text Art
 
 This is called a ASCII Text Art: Art from text
+Please do contribute if you have any cool text art, or any text art in general :)
 
 
 
